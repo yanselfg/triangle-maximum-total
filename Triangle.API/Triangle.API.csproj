@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Triangle.Services\Triangle.Services.csproj" />
   </ItemGroup>
 
 </Project>
